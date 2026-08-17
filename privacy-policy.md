@@ -9,7 +9,7 @@ This page is used to inform visitors regarding our policies with the collection,
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information.
 
 Authentication (Google Sign-In & Supabase):  
-If you choose to create an account to sync your collection, we collect your email address and basic profile information (such as your name) provided by your Google account. We use Supabase to securely manage this authentication data.
+If you choose to create an account to sync your collection, we collect your email address and basic profile information (such as your name) provided by your Google account. We use Supabase to securely manage this authentication data and to sync your in-app progress (including your collection, points, levels, and achievements). Please note that if you choose to share your generated Friend Code with others, those users will be able to view your public profile statistics, including your level, points, and achievements.
 
 Camera & Photos:  
 Our app requires access to your device's camera to scan and identify license plates. The image processing happens securely. We do not secretly record video or upload your personal photos without your consent.
