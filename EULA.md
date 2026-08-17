@@ -1,5 +1,5 @@
 # END USER LICENSE AGREEMENT
-Last updated August 14, 2026
+Last updated August 17, 2026
 
 
 
@@ -64,7 +64,7 @@ You acknowledge that the Licensor may periodically collect and use technical dat
 ## 6. USER DATA, CLOUD SYNCING, AND SOCIAL FEATURES
 The Licensed Application does not offer a public forum or the ability to post free-form public media (such as photos or text posts). However, the Licensed Application allows you to sync your collection progress to the cloud via Google login and share friend codes to connect with other users.
 
-By utilizing these features, You consent to the storage and processing of Your collection data, Google account identifier, and friend code. We do not assert any ownership over your collection data. You agree to use the friend code system strictly for its intended purpose and not to misuse it to harass, intimidate, or spam other users. Any use of these social and syncing features in violation of this License Agreement may result in the termination or suspension of your rights to use the Licensed Application.
+By utilizing these features, you consent to the storage and processing of your collection data (which includes your tracked plates, points, levels, and achievements), Google account identifier, and friend code. You acknowledge that by sharing your friend code with other users, they will be able to view your public profile statistics. We do not assert any ownership over your collection data. You agree to use the friend code system strictly for its intended purpose and not to misuse it to harass, intimidate, or spam other users. Any use of these social and syncing features in violation of this License Agreement may result in the termination or suspension of your rights to use the Licensed Application.
 
 ## 7. ADVERTISEMENTS
 The Licensed Application is provided to You free of charge and is supported by third-party advertisements. By using the Licensed Application, You acknowledge and agree that advertisements may be displayed to You. Julien Vos does not control, endorse, or assume any responsibility for the content of these third-party advertisements, nor the products or services they promote. Your interactions with any advertisers found within the Licensed Application are solely between You and the advertiser. 
